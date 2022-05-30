@@ -3,3 +3,5 @@
 Tutorial de uso das ferramentas Git e Github
 ## Autor 
 Giovanni Morais
+## playlist
+[Iniciar tutorial](https://joseassis.com.br/cursos.ht)
